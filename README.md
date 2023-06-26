@@ -1,1 +1,3 @@
-# NewsApp
+A newsApp using API's to fetch real time data...
+<img width="943" alt="Screenshot 2023-06-26 175451" src="https://github.com/Sonali3110/NewsApp/assets/98824103/16f7f108-c39a-4fa1-8010-b6b2954fc129">
+![Uploading Screenshot 2023-06-26 175518.png…]()
